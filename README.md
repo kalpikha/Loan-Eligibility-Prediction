@@ -1,6 +1,7 @@
 # Loan-Eligibility-Prediction
 
-Predicting if customers are eligible for the loan
+- Predicting if customers are eligible for the loan
+- Dataset from https://www.kaggle.com/datasets/vikasukani/loan-eligible-dataset
 
 • Performed univariate and bivariate analysis using seaborn and determined that males, married
   people, people with 2 dependents, graduate individuals and people with credit history 1.0 have more
